@@ -8,7 +8,7 @@
    [聚会摇摇蛋For Phone](https://github.com/daijiale/Party-Shaking/tree/master/PhoneAPP/%E8%81%9A%E4%BC%9A%E6%91%87%E6%91%87%E8%9B%8B)
  - 手表端版本下载地址：
    - [聚会摇摇蛋For AndroidWear](https://github.com/daijiale/Party-Shaking/tree/master/WearableAPP/AndroidWear%E7%89%88%E6%9C%AC)
-   - [聚会摇摇蛋For TicWear]()
+   - [聚会摇摇蛋For TicWear](https://github.com/daijiale/Party-Shaking/tree/master/WearableAPP/TicWear%E7%89%88%E6%9C%AC)
  
 ### 项目开源地址： ###
 
