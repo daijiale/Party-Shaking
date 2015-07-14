@@ -48,8 +48,6 @@ For TicWear OS:
 
 ![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear2.jpg)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear3.jpg)
-
 ![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear4.jpg)
 
 ![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear5.jpg)

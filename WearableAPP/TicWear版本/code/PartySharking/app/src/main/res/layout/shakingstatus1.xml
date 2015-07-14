@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+android:layout_height="match_parent" tools:context=".FirstActivity" tools:deviceIds="wear_round">
+
+    <RelativeLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true" >
+
+    <ImageView
+        android:id="@+id/imgnoth"
+        android:visibility="gone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/imgtit"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/lottery_nothing" />
+
+    <ImageView
+        android:id="@+id/imgtit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/lottery_head_1" />
+
+    <ImageView
+        android:id="@+id/imgmiddle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:background="@drawable/image_middle" />
+
+
+    </RelativeLayout>
+
+</RelativeLayout>

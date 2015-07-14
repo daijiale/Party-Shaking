@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">聚会摇摇蛋</string>
+    <string name="hello_round">Hello let us shaking the party!</string>
+    <string name="hello_square">Hi let us shaking the party!</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
