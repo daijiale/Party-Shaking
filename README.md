@@ -21,36 +21,36 @@ PS：TicWear应用商店下载量超过**1000**就开源整个工程。
    
 >手机端：   
     
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshakingpic6.png)
+![pic](http://img.daijiale.cn/github_partyshakingpic6.png)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshakingpic3.jpg)
+![pic](http://img.daijiale.cn/github_partyshakingpic3.jpg)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshakingpic1.png)
+![pic](http://img.daijiale.cn/github_partyshakingpic1.png)
 
 >手表端： 
     
 For DuWear OS:
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshaingwearablepswearable2.png)
+![pic](http://img.daijiale.cn/github_partyshaingwearablepswearable2.png)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshaingwearablepswearable3.png)
+![pic](http://img.daijiale.cn/github_partyshaingwearablepswearable3.png)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshaingwearablepswearable4.png)
+![pic](http://img.daijiale.cn/github_partyshaingwearablepswearable4.png)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/github_partyshaingwearablepswearable.png)
+![pic](http://img.daijiale.cn/github_partyshaingwearablepswearable.png)
 
 
 For TicWear OS:
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingScreenshot_2015-05-30-21-40-53.png)
+![pic](http://img.daijiale.cn/partyshakingScreenshot_2015-05-30-21-40-53.png)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear1.jpg)
+![pic](http://img.daijiale.cn/partyshakingticwear1.jpg)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear2.jpg)
+![pic](http://img.daijiale.cn/partyshakingticwear2.jpg)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear4.jpg)
+![pic](http://img.daijiale.cn/partyshakingticwear4.jpg)
 
-![pic](http://7xi6qz.com1.z0.glb.clouddn.com/partyshakingticwear5.jpg)
+![pic](http://img.daijiale.cn/partyshakingticwear5.jpg)
 
 
 
