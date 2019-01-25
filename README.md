@@ -13,7 +13,7 @@
  
 [项目源码已开源](https://github.com/daijiale/Party-Shaking/tree/master/WearableAPP/TicWear%E7%89%88%E6%9C%AC/code/PartySharking)
 
-### 实现效果：###
+### 实现效果： ###
    
 >手机端：   
     
